@@ -1,0 +1,2 @@
+# PDF generation
+reportlab>=3.6.0          # tested with 3.6.12
